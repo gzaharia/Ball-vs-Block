@@ -1,0 +1,10 @@
+D:\Visual Studio 2017 - Executable\EDP_Lab.5\EDP_Lab.5\bin\Debug\EDP_Lab.5.exe.config
+D:\Visual Studio 2017 - Executable\EDP_Lab.5\EDP_Lab.5\bin\Debug\EDP_Lab.5.exe
+D:\Visual Studio 2017 - Executable\EDP_Lab.5\EDP_Lab.5\bin\Debug\EDP_Lab.5.pdb
+D:\Visual Studio 2017 - Executable\EDP_Lab.5\EDP_Lab.5\obj\Debug\EDP_Lab.5.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017 - Executable\EDP_Lab.5\EDP_Lab.5\obj\Debug\EDP_Lab._5.Form1.resources
+D:\Visual Studio 2017 - Executable\EDP_Lab.5\EDP_Lab.5\obj\Debug\EDP_Lab._5.Properties.Resources.resources
+D:\Visual Studio 2017 - Executable\EDP_Lab.5\EDP_Lab.5\obj\Debug\EDP_Lab.5.csproj.GenerateResource.Cache
+D:\Visual Studio 2017 - Executable\EDP_Lab.5\EDP_Lab.5\obj\Debug\EDP_Lab.5.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017 - Executable\EDP_Lab.5\EDP_Lab.5\obj\Debug\EDP_Lab.5.exe
+D:\Visual Studio 2017 - Executable\EDP_Lab.5\EDP_Lab.5\obj\Debug\EDP_Lab.5.pdb
